@@ -25,7 +25,7 @@ NoteMate lets you upload a PDF (like lecture notes or manuals), ask questions, a
      ```
 4. **Run the app:**
    ```bash
-  python -m streamlit run c:/engine.env/app.py
+   python -m streamlit run c:/engine.env/app.py
    ```
 
 
